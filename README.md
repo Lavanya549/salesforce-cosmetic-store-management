@@ -4,14 +4,9 @@ The Salesforce Cosmetic Store Management System is a comprehensive solution for 
 
 # Key Features
 
-# Product Management :Add, update, and categorize products.
-
-# Inventory Management: Track stock levels and set low-stock alerts.
-
-# Customer Management: Maintain customer profiles and purchase history.
-
-#  Tracking: Record transactions and generate invoices.
-
-# Reporting: Create detailed sales and inventory insights.
-
-# Integration: Supports payment gateways and email notifications.
+ Product Management :Add, update, and categorize products.
+ Inventory Management: Track stock levels and set low-stock alerts.
+ Customer Management: Maintain customer profiles and purchase history.
+ Tracking: Record transactions and generate invoices.
+ Reporting: Create detailed sales and inventory insights.
+ Integration: Supports payment gateways and email notifications.
